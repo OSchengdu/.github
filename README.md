@@ -19,12 +19,9 @@
 
 ### 三、团队成员
 - SXP-Simon
-- CAICAIIs
-- linmenglite
-- THINKER-ONLY
-- Tunglies
-- onlyfast-bit
-- plucky
-- Mikan Affine
-- Dnyo666
-- ZeroR
+- [CAICAIIs](https://github.com/CAICAIIs)
+- [linmenglite](https://github.com/SXP-Simon)
+- [THINKER-ONLY](https://github.com/THINKER-ONLY)
+- [Tunglies](https://github.com/Tunglies)
+- [onlyfast-bit](https://github.com/onlyfast-bit)
+- [ZeroR](https://github.com/ZeroRMonday)
